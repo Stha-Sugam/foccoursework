@@ -1,0 +1,106 @@
+----------------------------------------
+                  BILL                  
+----------------------------------------
+-------------------------
+     Name: sugam
+-------------------------
+---------------------
+Kitta number: 101
+Months for renting: 7
+Amount: 350000
+Price: 50000
+---------------------
+Kitta number: 101
+Months for renting: 7
+Amount: 350000
+Price: 50000
+---------------------
+Kitta number: 101
+Months for renting: 7
+Amount: 350000
+Price: 50000
+---------------------
+Kitta number: 101
+Months for renting: 7
+Amount: 350000
+Price: 50000
+---------------------
+Kitta number: 101
+Months for renting: 7
+Amount: 350000
+Price: 50000
+---------------------
+Kitta number: 101
+Months for renting: 7
+Amount: 350000
+Price: 50000
+---------------------
+Kitta number: 101
+Months for renting: 7
+Amount: 350000
+Price: 50000
+---------------------
+Kitta number: 101
+Months for renting: 7
+Amount: 350000
+Price: 50000
+---------------------
+Kitta number: 101
+Months for renting: 7
+Amount: 350000
+Price: 50000
+---------------------
+Kitta number: 101
+Months for renting: 7
+Amount: 350000
+Price: 50000
+---------------------
+Kitta number: 102
+Months for renting: 10
+Amount: 350000
+Price: 60000
+---------------------
+Kitta number: 102
+Months for renting: 10
+Amount: 600000
+Price: 60000
+---------------------
+Kitta number: 102
+Months for renting: 10
+Amount: 600000
+Price: 60000
+---------------------
+Kitta number: 102
+Months for renting: 10
+Amount: 600000
+Price: 60000
+---------------------
+Kitta number: 102
+Months for renting: 10
+Amount: 600000
+Price: 60000
+---------------------
+Kitta number: 102
+Months for renting: 10
+Amount: 600000
+Price: 60000
+---------------------
+Kitta number: 102
+Months for renting: 10
+Amount: 600000
+Price: 60000
+---------------------
+Kitta number: 102
+Months for renting: 10
+Amount: 600000
+Price: 60000
+---------------------
+Kitta number: 102
+Months for renting: 10
+Amount: 600000
+Price: 60000
+---------------------
+Kitta number: 102
+Months for renting: 10
+Amount: 600000
+Price: 60000
