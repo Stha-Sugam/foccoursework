@@ -1,10 +1,10 @@
-101,Kathmandu,North,4,50000,5,Not Available
-102,Lalitpur,East,5,60000,4,Not Available
-103,Lalitpur,South,10,100000,4,Not Available
-104,Bhaktapur,North,8,80000,8,Not Available
-105,Thapathali,West,9,90000,3,Not Available
-106,Biratnagar,South,7,70000,4,Not Available
-107,Nawalparasi,East,2,20000,7,Not Available
+101,Kathmandu,North,4,50000,0,Available
+102,Lalitpur,East,5,60000,0,Available
+103,Lalitpur,South,10,100000,0,Available
+104,Bhaktapur,North,8,80000,0,Available
+105,Thapathali,West,9,90000,0,Available
+106,Biratnagar,South,7,70000,0,Available
+107,Nawalparasi,East,2,20000,0,Available
 108,Nepalgunj,West,5,50000,0,Available
 109,Baneshwor,North,9,90000,0,Available
 110,Maharajgunj,South,16,16000,0,Available

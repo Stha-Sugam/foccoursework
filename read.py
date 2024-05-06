@@ -1,9 +1,5 @@
-def openfile():
-    file = open("land.txt","r")
-    return file
-
 def readfile():
-    file = openfile()
+    file = open("land.txt","r")
     landlist = []
     for line in file:
         line = line.replace("\n","")
